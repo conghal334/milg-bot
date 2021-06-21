@@ -129,5 +129,4 @@ Examples: `1` or `1,2,3`
 
 
 Main Credits go to [@iCrawl](https://github.com/iCrawl) for making evobot successfully the best music bot...😍
-Get evobot repo here - 
-https://github.com/eritislami/evobot
+
